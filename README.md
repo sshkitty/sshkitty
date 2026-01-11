@@ -1,4 +1,4 @@
-## hi, I'm nugget also known as joseph
+## hi, I'm nugget 
 
 
 ###### languages
