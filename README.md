@@ -8,6 +8,9 @@
 ###### frameworks
 [![My skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss&theme=dark)](https://grimbest.netlify.app)
 
+###### scripting
+[![My skills](https://skillicons.dev/icons?i=sh&theme=dark)](https://grimbest.netlify.app)
+
 ###### tools
 [![My skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://grimbest.netlify.app)
 
