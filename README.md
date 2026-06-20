@@ -4,6 +4,24 @@
 
 </div>
 
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <th colspan="2" style="text-align: center;">About me</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <ul>
+        <li>i code (sometimes)</li>
+        <li>i got more private repos than anything</li>
+        <li>🐈</li>
+      </ul>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://i.imgur.com/nRUJgtu.png" width="100"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" /></a><br>
