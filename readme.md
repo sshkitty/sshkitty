@@ -32,6 +32,7 @@
 <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="28"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="28"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="28"/></a>
+<a href="https://www.lua.org/start.html"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua3.svg" height="28"/></a>
 
 <br/>
 
