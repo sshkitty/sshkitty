@@ -1,6 +1,6 @@
 <div align="center">
 
-# jop (sshkitty)
+# iron (sshkitty)
 
 </div>
 
@@ -42,9 +42,13 @@
 
 <hr>
 
+
+
 <p align="center">
   <a href="https://github.com/sshkitty"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
   <a href="https://discord.com/users/1437696382155886713"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
 </p>
 
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37267)](https://codetime.dev)
 
