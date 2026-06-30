@@ -12,7 +12,7 @@
   <tr>
     <td style="vertical-align: middle; text-align: left; padding-right: 20px;">
       • i code (sometimes)<br/>
-      • i got more private repos than anything<br/>
+      • i have more private repos than anything<br/>
       • 🐈
     </td>
     <td style="vertical-align: middle;">
