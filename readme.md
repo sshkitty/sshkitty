@@ -36,7 +36,7 @@
 
 <br/>
 
-### Framworks
+### Frameworks
 
 <a href="https://nextjs.org//"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" height="28"/></a>
 
